@@ -1,0 +1,5 @@
+[DEFAULT]
+mypy_config_file = shared-utils/py-utils/typing-utils/mypy.ini
+checkers = mypy2,flake8
+venv_root = /Users/chetanmishra/projects/instabase/venv
+flake8_config_file = .flake8
